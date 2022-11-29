@@ -29,3 +29,5 @@
 15. Создать AddProductForm (с использованием useForm)  и отправить fetch POST запрос при отправке формы AddProductForm
 
 16. Создать страницу PostsPage. Вывести посты (GET fetch-запрос), доступные по ссылке https://dummyjson.com/posts - вывести title и body.
+
+17. Создать страницу ToDosPage. вывести задачи (GET fetch-запрос), доступные по ссылке https://dummyjson.com/todos - вывести todo. Если completed true вывести параграф 'task done', если false - 'task not done'
